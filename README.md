@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klpindoria
-- 👀 I’m interested in C#, .NET Core, Angular, SQL with the occassional use of PHP
-- 🌱 I’m currently learning about iOS development in Swift
+- 👨🏽‍💻 I have developed private and commercial projects (under company repo) using C#, .NET Core, Angular & SQL with the occassional projects using WordPress/PHP
+- 🌱 I’m currently learning and experimenting with Swift.
 
 
 <!---
