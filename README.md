@@ -30,6 +30,14 @@ I'm always happy to explore something new, so this list is more of a snapshot th
 
 ### Bright Prints
 
+<p align="center">
+  <img
+    src="media/bright-prints-product-page.png"
+    alt="Bright Prints personalised poster editor showing live preview and customisation options"
+    width="900"
+  />
+</p>
+
 A personalised printing platform built to make ordering customised products easier.
 
 This has been one of my favourite projects because it takes a real-world business process and turns it into something much more streamlined.
